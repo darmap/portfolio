@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="16" fill="#0A0C10"/>
+  <text x="32" y="30" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="20" fill="#33D6C0">M</text>
+  <path d="M14 44 L20 50 L14 56" fill="none" stroke="#F1A93E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(3,-8)"/>
+  <path d="M50 44 L44 50 L50 56" fill="none" stroke="#F1A93E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(-3,-8)"/>
+</svg>
